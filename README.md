@@ -1,7 +1,5 @@
-# Fintech-Transaction-Fraud-SQL
-SQL data analysis project simulating payment processor operations to track monthly revenue, identify high-value consumer trends, and build automated cross-border fraud detection models.
-
 # FinTech Transaction & Fraud Analysis (SQL)
+SQL data analysis project simulating payment processor operations to track monthly revenue, identify high-value consumer trends, and build automated cross-border fraud detection models.
 
 ## Project Overview
 This project simulates real-world transaction logging for a payment processor. It uses advanced SQLite querying techniques to deliver business intelligence and risk-mitigation insights, matching operational needs found in major Atlanta fintech firms.
