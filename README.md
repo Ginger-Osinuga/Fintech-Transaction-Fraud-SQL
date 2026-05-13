@@ -9,6 +9,6 @@ This project simulates real-world transaction logging for a payment processor. I
 * **Customer Segmentation:** Isolated high-value "VIP" customers and categorized operational transaction frequencies to profile user engagement levels.
 * **Time-Series Metrics:** Engineered monthly aggregate models tracking core business revenue health and categorical volume trends.
 
-## Tech Stack
+## 🛠️ Tech Stack
 * **Database Engine:** SQLite
 * **Platform:** SQLiteonline IDE
